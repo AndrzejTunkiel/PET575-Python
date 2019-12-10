@@ -1,6 +1,8 @@
 # PET575-Python
 
-Lorem Ipsum?
-[Link to markdown](https://github.com/AndrzejTunkiel/PET575-Python/blob/master/PET575%2C_Data_Analysis_in_Python.md)
-[Link to html](https://github.com/AndrzejTunkiel/PET575-Python/blob/master/PET575%2C_Data_Analysis_in_Python.html)
-test
+[Link to static notebook](https://andrzejtunkiel.github.io/PET575-Python/PET575%2C_Data_Analysis_in_Python.html)
+
+[Open in Google Colab](https://colab.research.google.com/github/AndrzejTunkiel/PET575-Python/blob/master/PET575%2C_Data_Analysis_in_Python.ipynb), requires Google account
+
+[Open in Github](https://github.com/AndrzejTunkiel/PET575-Python/blob/master/PET575%2C_Data_Analysis_in_Python.ipynb)
+
