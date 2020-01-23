@@ -6,3 +6,8 @@
 
 [Open in Github](https://github.com/AndrzejTunkiel/PET575-Python/blob/master/PET575%2C_Data_Analysis_in_Python.ipynb), for download
 
+$$
+
+P = \frac{\frac{L}{q}}{1 + \sqrt{(\frac{z}{q})}}
+
+$$
