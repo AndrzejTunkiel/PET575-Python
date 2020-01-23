@@ -6,4 +6,4 @@
 
 [Open in Github](https://github.com/AndrzejTunkiel/PET575-Python/blob/master/PET575%2C_Data_Analysis_in_Python.ipynb), for download
 
-![](https://latex.codecogs.com/svg.latex?P = \frac{\frac{L}{q}}{1 + \sqrt{(\frac{z}{q})}})
+![](https://latex.codecogs.com/svg.latex?P&space;=&space;\frac{\frac{L}{q}}{1&space;&plus;&space;\sqrt{(\frac{z}{q})}})
