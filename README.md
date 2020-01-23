@@ -5,3 +5,5 @@
 [Open in Google Colab](https://colab.research.google.com/github/AndrzejTunkiel/PET575-Python/blob/master/PET575%2C_Data_Analysis_in_Python.ipynb), interactive, requires Google account
 
 [Open in Github](https://github.com/AndrzejTunkiel/PET575-Python/blob/master/PET575%2C_Data_Analysis_in_Python.ipynb), for download
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=P&space;=&space;\frac{\frac{L}{q}}{1&space;&plus;&space;\sqrt{(\frac{z}{q})}}" target="_blank"><img src="https://latex.codecogs.com/svg.latex?P&space;=&space;\frac{\frac{L}{q}}{1&space;&plus;&space;\sqrt{(\frac{z}{q})}}" title="P = \frac{\frac{L}{q}}{1 + \sqrt{(\frac{z}{q})}}" /></a>
